@@ -33,4 +33,4 @@ También puede ser una aplicación independiente que sirve de entorno para otras
 ## Extensiones
 actualmente la que mas usamos es hydrogen
 
-![imagen Atom(https://www.softzone.es/app/uploads-softzone.es/2021/05/Atom-editor-de-texto-y-codigo-fuente.jpg)]
+![imagen Atom](https://www.softzone.es/app/uploads-softzone.es/2021/05/Atom-editor-de-texto-y-codigo-fuente.jpg)
